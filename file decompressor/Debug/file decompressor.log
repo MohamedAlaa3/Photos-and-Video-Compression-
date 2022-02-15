@@ -1,0 +1,5 @@
+﻿  file decompressor.cpp
+C:\Users\Mohamed Alaa\source\repos\file decompressor\file decompressor.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Mohamed Alaa\source\repos\file decompressor\file decompressor.cpp(10,8): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Mohamed Alaa\source\repos\file decompressor\file decompressor.cpp(67,33): warning C4101: 'r': unreferenced local variable
+  file decompressor.vcxproj -> C:\Users\Mohamed Alaa\source\repos\file decompressor\Debug\file decompressor.exe

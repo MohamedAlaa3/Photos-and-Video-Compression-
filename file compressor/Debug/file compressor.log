@@ -1,0 +1,6 @@
+﻿  file compressor.cpp
+C:\Users\Mohamed Alaa\source\repos\file compressor\file compressor.cpp(174,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Mohamed Alaa\source\repos\file compressor\file compressor.cpp(182,14): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Mohamed Alaa\source\repos\file compressor\file compressor.cpp(318,47): warning C4101: 'r2': unreferenced local variable
+C:\Users\Mohamed Alaa\source\repos\file compressor\file compressor.cpp(318,33): warning C4101: 'r': unreferenced local variable
+  file compressor.vcxproj -> C:\Users\Mohamed Alaa\source\repos\file compressor\Debug\file compressor.exe
